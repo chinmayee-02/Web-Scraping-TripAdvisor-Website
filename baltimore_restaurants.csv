@@ -1,0 +1,181 @@
+,restaurant,cuisine,price,rating,total review count
+0,DiPasqualesItalianMarketplaceDeli,"Italian, Pizza",$$ - $$$,5.0,694
+1,JoeBennysFocacceria,"Italian, Pizza",$$ - $$$,5.0,215
+2,CharlestonRestaurant,American,$$$$,4.5,943
+3,LaTavola,"Seafood, Italian",$$ - $$$,4.5,682
+4,ThamesStreetOysterHouse,"American, Bar",$$ - $$$,4.5,2105
+5,DalesiosofLittleItalyRestaurant,Italian,$$ - $$$,4.5,993
+6,TheCapitalGrille,"American, Steakhouse",$$$$,4.5,644
+7,SoBoCafe,American,$$ - $$$,4.5,228
+8,OneEyedMikes,"American, Bar",$$ - $$$,4.5,302
+9,TheHelmand,"Middle Eastern, Afghani",$$ - $$$,4.5,606
+10,SamosRestaurant,"Mediterranean, Greek",$$ - $$$,4.5,289
+11,LaScala,"Italian, Tuscan",$$$$,4.5,896
+12,SottoSopra,"Italian, European",$$$$,4.5,498
+13,MissShirleysCafeRolandPark,American,$$ - $$$,4.5,1434
+14,KocosPub,"American, Bar",$$ - $$$,4.5,283
+15,TheFoodMarket,American,$$ - $$$,4.5,391
+16,BlueMoonCafe,"American, Cafe",$$ - $$$,4.5,904
+17,MissShirleysCafeInnerHarbor,American,$$ - $$$,4.5,1267
+18,LPSteamers,"American, Seafood",$$ - $$$,4.5,656
+19,Cazbar,"Mediterranean, European",$$ - $$$,4.5,345
+20,MamasontheHalfShell,"American, Bar",$$ - $$$,4.5,676
+21,Gertrudes,American,$$ - $$$,4.5,479
+22,PetitLouisBistro,"French, European",$$$$,4.5,344
+23,MaxsTaphouse,"American, Bar",$$ - $$$,4.5,362
+24,OuzoBay,"Mediterranean, Seafood",$$$$,4.5,456
+25,NicksFishHouse,"American, Bar",$$ - $$$,4.5,698
+26,FogoDeChaoBrazilianSteakhouse,"Steakhouse, Brazilian",$$$$,4.5,1018
+27,Amiccis,Italian,$$ - $$$,4.0,754
+28,RustyScupper,"American, Seafood",$$$$,4.0,1967
+29,WoodberryKitchen,American,$$$$,4.5,1217
+30,BOAmericanBrasserie,"American, Bar",$$ - $$$,4.0,589
+31,PetersPourHouse,"American, Bar",$$ - $$$,4.5,260
+32,IsabellasBrickOven,"Italian, Pizza",$,4.5,188
+33,KoopersTavern,"American, Bar",$$ - $$$,4.0,437
+34,MickOSheas,"Irish, Bar",$$ - $$$,4.5,191
+35,TheAbbeyBurgerBistro,"American, Bar",$$ - $$$,4.5,246
+36,BlueMoonToo,"American, Cafe",$$ - $$$,4.5,118
+37,ThePrimeRib,"American, Steakhouse",$$$$,4.5,380
+38,RestauranteTioPepe,Spanish,$$$$,4.5,467
+39,JimmysFamousSeafood,"American, Bar",$$ - $$$,4.0,684
+40,Cinghiale,Italian,$$$$,4.0,554
+41,AnnabelLeeTavern,"American, Bar",$$ - $$$,4.5,189
+42,BlueHillTavern,"American, Contemporary",$$ - $$$,4.5,263
+43,RecPierChopHouse,"American, Steakhouse",$$$$,4.0,252
+44,BrewersArt,"American, Bar",$$ - $$$,4.0,379
+45,KonaGrill,"American, Bar",$$ - $$$,4.0,562
+46,SaturdayMorningCafe,"Diner, American",$$ - $$$,4.0,310
+47,PicklesPub,"American, Bar",$,4.0,425
+48,NamasteBaltimoreIndianCuisine,"Indian, Asian",$$ - $$$,4.5,104
+49,CafeGiaRistorante,Italian,$$ - $$$,4.0,342
+50,CavaMezzeBaltimore,"American, Mediterranean",$$ - $$$,4.5,126
+51,LaCuchara,Spanish,$$ - $$$,4.5,210
+52,TheCornerBistroandWineBar,"American, Wine Bar",$$ - $$$,4.5,203
+53,LebaneseTaverna,"Lebanese, Mediterranean",$$ - $$$,4.0,366
+54,PrattStreetAleHouse,"American, Bar",$$ - $$$,4.0,1010
+55,PapermoonDiner,"American, Diner",$$ - $$$,4.0,382
+56,CaptainJamesCrabhouseRestaurant,"American, Bar",$$ - $$$,4.0,564
+57,BerthasMussels,"American, Bar",$$ - $$$,4.0,535
+58,TheOceanaireSeafoodRoom,"American, Seafood",$$$$,4.0,431
+59,MagdalenaAMarylandBistro,"Seafood, Bar",$$$$,4.5,110
+60,SlainteIrishPubandRestaurant,"Irish, Bar",$$ - $$$,4.0,303
+61,EthelsCreoleKitchen,"American, Cajun & Creole",$$ - $$$,4.5,141
+62,GuntherCo,"American, Pub",$$ - $$$,4.5,164
+63,PhillipsSeafood,"American, Bar",$$ - $$$,4.0,2966
+64,AlexandersTavern,"American, Bar",$$ - $$$,4.5,161
+65,BroadwayDiner,"American, Diner",$$ - $$$,4.5,235
+66,Tagliata,Italian,$$$$,4.5,149
+67,ChiapparellisRestaurant,Italian,$$ - $$$,4.0,485
+68,JoeSquaredPizzaBar,"Bar, Pizza",$$ - $$$,4.0,217
+69,CostasInn,"American, Bar",$$ - $$$,4.0,212
+70,MatthewsPizzeria,"Pizza, Italian",$,4.5,184
+71,Puerto,"Peruvian, Latin",$$ - $$$,4.5,83
+72,PointsSouthLatinKitchen,"Latin, Central American",$$ - $$$,4.5,96
+73,HomeSlyce,"Italian, Bar",$$ - $$$,4.5,134
+74,Cosima,"Italian, Sicilian",$$$$,4.5,142
+75,SipBite,"American, Diner",$,4.0,253
+76,AngiesSeafood,"Seafood, American",$$ - $$$,4.0,161
+77,TirNaNogIrishBarGrillBaltimore,"American, Irish",$$ - $$$,3.5,790
+78,Spoons,"American, Cafe",$$ - $$$,4.5,96
+79,AttmansDelicatessen,"American, Deli",$$ - $$$,4.0,238
+80,TheBlackOlive,"Seafood, Mediterranean",$$$$,4.0,353
+81,DudasTavern,"American, Bar",$$ - $$$,4.0,176
+82,Azumi,"Asian, Japanese",$$$$,4.0,239
+83,RyeStreetTavern,"American, Bar",$$ - $$$,4.0,162
+84,WickedSisters,"American, Bar",$$ - $$$,4.0,117
+85,CLAVEL,"Mexican, Street Food",$$ - $$$,4.5,98
+86,LochBar,"American, Bar",$$$$,4.0,147
+87,AlmaCocinaLatina,"Venezuelan, Latin",$$ - $$$,4.5,116
+88,CyprianaofRolandPark,"Mediterranean, Greek",$$ - $$$,4.5,110
+89,IronRoosterCanton,American,$$ - $$$,4.0,177
+90,LBTavern,"American, Bar",$$ - $$$,4.0,96
+91,LittleHavanaRestauranteyCantinaCubana,"Latin, Bar",$$ - $$$,4.0,183
+92,BlueAgaveRestauranteyTequileria,"Mexican, Southwestern",$$ - $$$,4.0,204
+93,GoldenWestCafe,"American, Southwestern",$$ - $$$,4.0,217
+94,RiptidebytheBay,"American, Bar",$$ - $$$,4.0,338
+95,PennyBlack,"American, Bar",$$ - $$$,4.5,61
+96,BubbaGumpShrimpCompany,"American, Bar",$$ - $$$,3.5,969
+97,GranoPastaBar,Italian,$$ - $$$,4.5,78
+98,TheWaterStreetTavernKeyWestPatioBar,"American, Bar",$$ - $$$,4.0,160
+99,Hershs,"Italian, Pizza",$$ - $$$,4.5,98
+100,McCormickSchmicksSeafoodSteaks,"American, Seafood",$$$$,3.5,903
+101,BabasKitchen,"Mediterranean, Middle Eastern",$,4.5,101
+102,Birroteca,"Italian, American",$$ - $$$,4.0,219
+103,WaterforChocolate,"American, Cafe",$$ - $$$,4.5,79
+104,Starbucks,"American, Cafe",$$ - $$$,4.5,89
+105,RedBrickStationRestaurant,"American, Bar",$$ - $$$,4.0,202
+106,RaSushiBarRestaurant,"Japanese, Sushi",$$ - $$$,4.0,233
+107,OneWorldCafe,"American, Cafe",$$ - $$$,4.0,158
+108,HardRockCafe,"American, Bar",$$ - $$$,3.5,811
+109,SabatinosItalianRestaurant,Italian,$$ - $$$,3.5,560
+110,SouthsideDiner,"American, Diner",$,4.5,44
+111,TapasTeatroCafe,Spanish,$$ - $$$,4.0,137
+112,FishHeadCantina,"American, Sushi",$$ - $$$,4.5,50
+113,BoBrooksCrabHouse,"American, Bar",$$ - $$$,3.5,419
+114,IkarosRestaurant,"Mediterranean, Greek",$$ - $$$,4.0,185
+115,MarieLouiseBistro,"French, European",$$ - $$$,4.0,171
+116,PoetsModernCocktailsEats,"American, Gastropub",$$ - $$$,4.0,95
+117,Apropoes,"American, Bar",$$ - $$$,4.0,175
+118,KippoRamen,"Japanese, Asian",$$ - $$$,5.0,36
+119,DavidandDadsCafe,"American, Cafe",$,4.5,68
+120,Verde,"Italian, Pizza",$$ - $$$,4.5,129
+121,BluePitBbqWhiskeyBar,"American, Barbecue",$$ - $$$,4.5,58
+122,BopBrickOvenPizza,"Italian, Pizza",$,4.0,212
+123,ThePointinFells,"American, Bar",$$ - $$$,4.0,169
+124,JohnnyRads,"American, Pizza",$$ - $$$,4.5,67
+125,Minnow,"Seafood, American",$$ - $$$,4.5,54
+126,Iggies,"Pizza, Italian",$$ - $$$,4.5,115
+127,BoogsBarbeque,"American, Fast Food",$$ - $$$,4.0,121
+128,VinnysItalianCafe,Italian,$$ - $$$,4.5,85
+129,UnionCraftBrewing,$,79reviews,4.5,56
+130,DanielasPastaandPastries,Italian,$$ - $$$,4.5,79
+131,NachoMamas,"Mexican, Southwestern",$$ - $$$,4.0,206
+132,MusselBarGrille,"American, Bar",$$ - $$$,4.5,84
+133,VillageSquareCafe,"American, Cafe",$$ - $$$,4.5,90
+134,PapisTacos,"Mexican, Southwestern",$,4.0,107
+135,LunaDelSeaSteakSeafoodBistro,"American, Bar",$$ - $$$,3.5,484
+136,FornoRestaurantWineBar,"Italian, American",$$ - $$$,4.0,134
+137,VillagioCafe,"Middle Eastern, Persian",$$ - $$$,4.5,70
+138,AldosRestaurant,Italian,$$$$,4.0,272
+139,TambersNiftyFifties,"Indian, Diner",$$ - $$$,4.0,85
+140,TheAbbeyBurgerBistroFellsPoint,"American, Bar",$$ - $$$,4.5,75
+141,AmbassadorDiningRoom,Indian,$$ - $$$,4.0,169
+142,TheHorseYouCameInOnSaloon,"Mexican, American",$$ - $$$,4.5,80
+143,DoubleTTDiner,"American, Diner",$$ - $$$,4.0,198
+144,DellisBarGrill,"American, Bar",$$ - $$$,4.5,66
+145,LaCalle,"Mexican, Latin",$$ - $$$,5.0,28
+146,Indigma,Indian,$$ - $$$,4.0,108
+147,Bottega,"Italian, Contemporary",$$ - $$$,4.5,74
+148,MortonsTheSteakhouse,"American, Steakhouse",$$$$,4.0,226
+149,NalleyFresh,American,$,4.5,49
+150,RickDempseysBrewPubRestaurant,"American, Bar",$$ - $$$,4.0,251
+151,SupanosSteakhouse,Italian,$$ - $$$,3.5,380
+152,TeavolveCafeLounge,"American, Cafe",$$ - $$$,4.0,148
+153,TheRowhouseGrille,"American, Bar",$$ - $$$,4.5,67
+154,BondStreetSocial,"American, Bar",$$ - $$$,4.0,141
+155,Barcocina,"Mexican, Southwestern",$$ - $$$,3.5,227
+156,DarbarCuisineofIndia,Indian,$$ - $$$,4.5,48
+157,Gnocco,"Spanish, Mediterranean",$$ - $$$,4.5,39
+158,ObryckisABar,"American, Bar",$$ - $$$,4.0,58
+159,MichaelsSteakLobsterHSE,"American, Steakhouse",$$ - $$$,4.0,69
+160,LeBistroduVillageFkaCrepeduJour,"French, European",$$ - $$$,4.0,99
+161,Bistro,"American, Bar",$$ - $$$,4.0,154
+162,RedStarFellsPoint,"American, Bar",$$ - $$$,4.0,116
+163,MosSeafood,"American, Seafood",$$ - $$$,3.5,347
+164,MothersFederalHillGrille,"American, Bar",$$ - $$$,4.0,108
+165,AleMarys,"American, Bar",$$ - $$$,4.0,102
+166,TacoFiestaLLC,"Mexican, Southwestern",$,4.0,106
+167,WaterfrontHotel,"American, Bar",$$ - $$$,4.0,99
+168,OwlBar,"American, Bar",$$ - $$$,4.0,157
+169,TheYard,"American, Bar",$$ - $$$,4.0,115
+170,BookmakersCocktailClub,"American, Bar",$$ - $$$,4.5,55
+171,BrendaliItalianRistorante,Italian,$$ - $$$,4.5,73
+172,DoobysCoffee,"Cafe, American",$$ - $$$,4.0,76
+173,ZorbasBarGrill,"Mediterranean, Greek",$$ - $$$,4.5,61
+174,LiquidEarth,American,$$ - $$$,4.5,70
+175,Mezze,"Mediterranean, Greek",$$ - $$$,4.0,163
+176,CladdaghPub,"American, Irish",$$ - $$$,4.0,97
+177,LaBarrita,"Argentinean, Latin",$$ - $$$,5.0,20
+178,MyThai,"Asian, Thai",$$ - $$$,4.5,66
+179,Encantada,"American, Contemporary",$$ - $$$,4.0,76
